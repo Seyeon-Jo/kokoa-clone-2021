@@ -1,0 +1,8 @@
+.user-component__icon {
+  display: flex;
+  align-items: center;
+}
+
+.user-component__icon h6 {
+  margin-right: 8px;
+}
